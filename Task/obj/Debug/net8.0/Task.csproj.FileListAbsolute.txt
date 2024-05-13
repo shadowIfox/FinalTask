@@ -1,0 +1,15 @@
+/workspaces/FinalTask/Task/bin/Debug/net8.0/Task
+/workspaces/FinalTask/Task/bin/Debug/net8.0/Task.deps.json
+/workspaces/FinalTask/Task/bin/Debug/net8.0/Task.runtimeconfig.json
+/workspaces/FinalTask/Task/bin/Debug/net8.0/Task.dll
+/workspaces/FinalTask/Task/bin/Debug/net8.0/Task.pdb
+/workspaces/FinalTask/Task/obj/Debug/net8.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/FinalTask/Task/obj/Debug/net8.0/Task.AssemblyInfoInputs.cache
+/workspaces/FinalTask/Task/obj/Debug/net8.0/Task.AssemblyInfo.cs
+/workspaces/FinalTask/Task/obj/Debug/net8.0/Task.csproj.CoreCompileInputs.cache
+/workspaces/FinalTask/Task/obj/Debug/net8.0/Task.sourcelink.json
+/workspaces/FinalTask/Task/obj/Debug/net8.0/Task.dll
+/workspaces/FinalTask/Task/obj/Debug/net8.0/refint/Task.dll
+/workspaces/FinalTask/Task/obj/Debug/net8.0/Task.pdb
+/workspaces/FinalTask/Task/obj/Debug/net8.0/Task.genruntimeconfig.cache
+/workspaces/FinalTask/Task/obj/Debug/net8.0/ref/Task.dll
